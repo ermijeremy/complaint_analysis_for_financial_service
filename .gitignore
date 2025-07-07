@@ -1,3 +1,7 @@
 data/
 
 !data/processed/final_processed_complaints.csv
+
+vector_store/
+
+processed_data/
