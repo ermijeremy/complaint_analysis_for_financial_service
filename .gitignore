@@ -6,4 +6,6 @@ vector_store/
 
 processed_data/
 
+.streamlit/
+
 *.env
